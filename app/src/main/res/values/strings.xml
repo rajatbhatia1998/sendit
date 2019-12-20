@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">ChatBox</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="register_logo">Register Logo</string>
+    <string name="login_logo">Login Logo</string>
+
+</resources>
